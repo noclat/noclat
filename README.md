@@ -14,9 +14,3 @@ Co-founder of [PlaceKit](https://placekit.io), ex [Algolia](https://algolia.com)
 - **Back-end**: Node.js, Express, Fastify, PostgreSQL, SQLite.
 - **Typings**: equally TypeScript and JSDoc.
 - **Infrastructure**: Google Cloud, Firebase, Docker.
-
-## Principles
-
-1. **Favor native features and functional programming.** For a readable, expectable, and performant code.
-2. **Limit custom code, abstractions and dependencies.** Writing less code with fewer intrications while being closest to the documentations reduces maintenance and potential sources of bug.
-3. **Write self-explanatory code.** Anything reusable, not trivial, or outside of depencencies docs is either annotated or documented.
