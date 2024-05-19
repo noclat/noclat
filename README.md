@@ -10,7 +10,7 @@ Co-founder of [PlaceKit](https://placekit.io), ex [Algolia](https://algolia.com)
 
 ## Comfort stacks (can adapt)
 
-- **Front-end**: React, Next.js, Remix, Svelte/Kit, TailwindCSS.
+- **Front-end**: React, Next.js, Remix, TailwindCSS.
 - **Back-end**: Node.js, Express, Fastify, PostgreSQL, SQLite.
 - **Typings**: equally TypeScript and JSDoc.
 - **Infrastructure**: Google Cloud, Firebase, Docker.
