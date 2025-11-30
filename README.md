@@ -6,5 +6,3 @@ That eclectic skill set specializes into crafting all kinds of tools: **APIs**, 
 
 Comfort stack: **TypeScript, React, TailwindCSS, Node**.  
 Web engineer at [Photoroom](https://photoroom.com), co-founder of [PlaceKit](https://placekit.io), ex [Algolia](https://algolia.com), [UX certified](https://www.interaction-design.org/members/nicolas-torres/certificate/course/fltqnHSHvRtrgdLHzN), Master Degree, speaking French, English and Spanish.
-
-👉 Freelance inquiries at [hi@noclat.com](mailto:hi@noclat.com).
